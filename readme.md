@@ -11,5 +11,5 @@
 ```
 ## ChromeDriver 다운로드 및  설치
 1. https://chromedriver.chromium.org/downloads 에서 자신의 크롬 브라우저 버젼에 맞는 드라이버 다운로드
-2. 압축풀고 적당한 위치에 복사하기
+2. 압축풀고 적당한 위치(예제에서는 'D:\\KDigital-AI\\chromedriver_win32\\chromedriver.exe')에 복사하기
 
